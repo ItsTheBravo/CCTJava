@@ -1,0 +1,2 @@
+# CCTJava
+CCT mini homework
